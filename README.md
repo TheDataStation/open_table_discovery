@@ -97,7 +97,7 @@ b) Download data
    ```
    Each dataset is corresponding to a directory "<work_dir>/data/<dataset>". 
 
-## 3. Index a new table collection
+## 3. Index new datasets
    To index a new dataset (table collection), create 2 diretories,
     
    a) <work_dir>/data/\<dataset\>
