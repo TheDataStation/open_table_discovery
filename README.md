@@ -122,7 +122,7 @@ b) Download data
    You can split a table by row into multiple small tables so that you can locate a small region in the original table given a relevant query. Make sure to use the same caption for each small table. You can put these small tables in seperate subfolders if using same file names or just together if you customize the table ID
 
    **Sample rows for big tables**:
-   If tables contain many rows, it can take too much disk space and the system will also be much slower. One solution is to sample K rows for those big tables. You can try K = 100 or other to trade off speed, space and search quality.  
+   If tables contain many rows, it can take too much disk space and the system will also be much slower. One solution is to sample K rows for those big tables. You can try K = 100 or other to keep a tradeoff among speed, space and search quality.
 
 ## 4. Train
    We provide pretrained models for "fetaqa" and "nq_talbes" and 
